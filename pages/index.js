@@ -1,6 +1,6 @@
 function Home() {
     return <h1>
-        <font face="Swiss">
+        <font face="Telegraf Regular">
             <font color="red">
                 Te amo demais! Quer casar comigo de novo?
             </font>
